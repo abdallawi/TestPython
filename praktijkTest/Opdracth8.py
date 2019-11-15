@@ -1,5 +1,3 @@
-import ti
-
 class BankAccount:
     balance = 0.0
 

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecffb96b-1d50-4ce6-8e22-29c59be834ad" name="Default Changelist" comment="" />
+    <list default="true" id="ecffb96b-1d50-4ce6-8e22-29c59be834ad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktijkTest/Opdracht4b.py" beforeDir="false" afterPath="$PROJECT_DIR$/praktijkTest/Opdracht4b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktijkTest/Opdracth8.py" beforeDir="false" afterPath="$PROJECT_DIR$/praktijkTest/Opdracth8.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +19,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TeCbGhOWp4OJo1Bl0SJVzoowt0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -168,19 +177,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573811243633</updated>
-      <workItem from="1573811273239" duration="12485000" />
+      <workItem from="1573811273239" duration="14410000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonTest$Opdracht6.coverage" NAME="Opdracht6 Coverage Results" MODIFIED="1573818893189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/praktijkTest" />
     <SUITE FILE_PATH="coverage/pythonTest$Opdracht3.coverage" NAME="Opdracht3 Coverage Results" MODIFIED="1573815581292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/praktijkTest" />
     <SUITE FILE_PATH="coverage/pythonTest$CallingInSick.coverage" NAME="CallingInSick Coverage Results" MODIFIED="1573812982127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/praktijkTest" />
     <SUITE FILE_PATH="coverage/pythonTest$Opdracht7.coverage" NAME="Opdracht7 Coverage Results" MODIFIED="1573820528904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/praktijkTest" />
-    <SUITE FILE_PATH="coverage/pythonTest$Opdracht4b.coverage" NAME="Opdracht4b Coverage Results" MODIFIED="1573825302354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/praktijkTest" />
+    <SUITE FILE_PATH="coverage/pythonTest$Opdracht4b.coverage" NAME="Opdracht4b Coverage Results" MODIFIED="1573827088962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/praktijkTest" />
     <SUITE FILE_PATH="coverage/pythonTest$Opdracht4a.coverage" NAME="Opdracht4a Coverage Results" MODIFIED="1573816045079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/praktijkTest" />
     <SUITE FILE_PATH="coverage/pythonTest$Opdracht2.coverage" NAME="Opdracht2 Coverage Results" MODIFIED="1573813390652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/praktijkTest" />
     <SUITE FILE_PATH="coverage/pythonTest$Opdracht4c.coverage" NAME="Opdracht4c Coverage Results" MODIFIED="1573816414934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/praktijkTest" />
